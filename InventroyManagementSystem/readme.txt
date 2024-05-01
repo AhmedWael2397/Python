@@ -1,0 +1,1 @@
+this is a simple inventory management program that helps the user to manage his inventory by providing him with some functions such as adding items,editing their stock and also generates sales reports for his products identifying the most popular products that he sells 
