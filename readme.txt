@@ -1,1 +1,0 @@
-this program provides with a basic management system for a company to show company departments and their guides also help the admin add employees and update their data and generates a report that includes all employees with their data 
